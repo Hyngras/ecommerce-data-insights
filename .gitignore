@@ -1,0 +1,14 @@
+# Virtualenv
+.venv/
+venv/
+
+# Mac
+.DS_Store
+
+# Cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Dados gerados
+output/*.csv
+output/*.json
