@@ -3,7 +3,7 @@ Análise Exploratória, Estatística e Dashboard Interativo
 
 Este projeto realiza uma análise completa dos dados de um e-commerce brasileiro, seguindo uma pipeline profissional de dados: **ETL → construção da ABT (Analysis Base Table) → EDA → Inferência Estatística → KPIs → Dashboard Streamlit**.
 
-[](https://img.youtube.com/vi/ID_DO_VIDEO/maxresdefault.jpg)](https://youtu.be/5m_tf7SgfRw)
+[![Assista ao vídeo](https://img.youtube.com/vi/5m_tf7SgfRw/0.jpg)](https://youtu.be/5m_tf7SgfRw)
 
 ---
 
